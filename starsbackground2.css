@@ -1,0 +1,18 @@
+
+@media (min-width:768px) {
+body {
+background: url('https://64.media.tumblr.com/0d101a0…/3c157231c3bb8373-5b/s2048x3072/b1b2724….jpg') center center fixed !important;
+background-repeat: no-repeat;
+background-size: 100%;
+}
+}
+
+@media (max-width: 768px) {
+body {
+background: url('https://64.media.tumblr.com/0d101a0…/3c157231c3bb8373-5b/s2048x3072/b1b2724….jpg') center center fixed !important;
+background-repeat: no-repeat;
+background-size: 100%;
+width: auto !important;
+min-width: 600px !important;
+}
+}
